@@ -8,9 +8,9 @@ In my free time I like to turn what I learn at university into small coding proj
 
 ## 🔧 Tech stack
 
-- **Languages:** Python, C/C++, MATLAB, LabVIEW
-- **Python:** NumPy, SciPy, Matplotlib, Pandas
-- **Tools:** Git, LaTeX, Jupyter
+- **Languages:** Python, LabVIEW
+- **Python:** NumPy, SciPy, Matplotlib
+- **Tools:** LaTeX, Jupyter, Spyder
 
 ## 🧪 What I'm working on
 
