@@ -25,5 +25,5 @@ More projects coming soon as I progress in my degree and my final project relate
 
 ## 📫 Contact
 
-- Email: tu_email
-- LinkedIn: tu_linkedin
+- Email: nachomontesramos@gmail.com
+- Phone number: +34 657336577
